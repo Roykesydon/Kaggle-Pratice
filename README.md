@@ -1,4 +1,6 @@
 # KagglePratice
+## Problem
+- 有些寫錯了，CrossEntropyLoss 前面不該接 softmax
 
 ## Regression
 - NN
