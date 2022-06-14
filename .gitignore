@@ -2,3 +2,4 @@ kaggle.json
 *.zip
 *.csv
 *.pk1
+*.tsv
