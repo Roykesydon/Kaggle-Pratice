@@ -3,19 +3,30 @@
 ## 代辦
 - 紀錄 Bag of Words 的技巧
 
-## Regression
-- NN
-    - Titanic
-    - Bike Sharing Demand
-- GAN
-    - CycleGAN
-        - I’m Something of a Painter Myself
+## Regular
+    - Titanic(Regression)
+        - NN
+    - Bike Sharing Demand(Regression)
+        - NN
+        - XGBoost
+
+
+
 - XGBoost
     - Bike Sharing Demand
 
-## Classification
-- CNN
-    - Digit Recognizer
+## Machine Vision
+### Regular
+- Digit Recognizer(Classification)
+    - CNN
 
-- XGBoost
-    - Bag of Words Meets Bags of Popcorn    #NLP
+### GAN
+#### CycleGAN
+    - I’m Something of a Painter Myself(Regression)
+
+
+## Natural Language Processing
+### Regular
+- Bag of Words Meets Bags of Popcorn(Classification)
+    - Word2Vec
+
