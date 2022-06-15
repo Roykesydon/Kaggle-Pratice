@@ -10,6 +10,8 @@
 - GAN
     - CycleGAN
         - I’m Something of a Painter Myself
+- XGBoost
+    - BikeSharingDemand
 
 ## Classification
 - CNN
