@@ -6,12 +6,12 @@
 ## Regression
 - NN
     - Titanic
-    - BikeSharingDemand
+    - Bike Sharing Demand
 - GAN
     - CycleGAN
         - I’m Something of a Painter Myself
 - XGBoost
-    - BikeSharingDemand
+    - Bike Sharing Demand
 
 ## Classification
 - CNN
