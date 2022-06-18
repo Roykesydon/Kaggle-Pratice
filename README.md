@@ -1,7 +1,5 @@
 # KagglePratice
 
-## 代辦
-- 紀錄 Bag of Words 的技巧
 
 ## Regular
     - Titanic(Regression)
